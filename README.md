@@ -24,7 +24,5 @@
 
 <br />
 <br />
-[linkedin]: https://www.linkedin.com/in/atisam-ul-haq-643584154/
-[instagram]: https://www.instagram.com/atisam_ulhaq
-[CodeWars]: https://www.codewars.com/users/atisam1
+
 
