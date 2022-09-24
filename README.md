@@ -4,9 +4,9 @@
 ## I'm a Developer and Science Enthusiastic!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: Coding is addictive
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/atisam-ul-haq-643584154/"> <img align="left" alt="atisam | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
