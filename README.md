@@ -1,7 +1,7 @@
 ### Hi there, I'm Atisam - 👋
 
 
-## I'm a Developer and Science Enthusiastic!!
+## I'm a Developer and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
