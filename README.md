@@ -3,7 +3,6 @@
 
 ## I'm a Developer and Tech Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Coding is addictive
