@@ -19,7 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atisamhaq123&show_icons=true&locale=en&layout=compact" alt="atisamhaq123" /</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atisamhaq123&show_icons=true&locale=en" alt="atisamhaq123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atisamhaq123&" alt="atisamhaq123" /></p>
 
 <br />
 <br />
